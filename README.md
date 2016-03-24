@@ -2,6 +2,15 @@
 A collection of basic scripts used in bioinformatic analysis
 
 
+## SGE scripts
+
+Our cloud computing facility uses SGE.
+One of the ways to intereact with this system is by submitting scripts as jobs using `qsub`.
+Some examples of these scripts are here:
+
+[SGE scripts](https://github.com/knausb/SGE_scripts)
+
+
 ## Read alignment
 
 Reads can be aligned to a reference using bwa, bowtie2 or other aligners.
